@@ -145,6 +145,6 @@ SOFTWARE.
 
 ## 联系方式
 
-- 项目维护者: AI创意大赛组委会
-- 邮箱: ai-contest@example.com
-- 项目链接: https://github.com/ai-contest/ai-evaluation-workflow 
+- 项目维护者: chilohwei
+- 邮箱: chilohwei@gmail.com
+- 项目链接: https://github.com/chilohwei/ai-evaluation-workflow 
