@@ -1,0 +1,26 @@
+# AI评审系统所需依赖包
+openai>=1.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+tqdm>=4.66.0
+markdown>=3.4.3
+
+# Excel处理相关
+openpyxl>=3.1.2
+
+# 日期时间处理
+python-dateutil>=2.8.2
+
+# 数据处理和可视化
+numpy>=1.26.0
+matplotlib>=3.7.0
+
+# Web相关
+jinja2>=3.1.0
+flask>=3.0.0
+
+# HTML报告生成相关
+markdown2>=2.4.10
+pygments>=2.16.1  # 用于代码高亮
+beautifulsoup4>=4.12.0  # HTML解析 
