@@ -22,13 +22,13 @@
 4. **评审报告生成**
    - 生成美观的HTML格式评审报告
    - 包含数据可视化和统计分析
-   - 自动计算和分配奖项
+   - 自动计算和得分排名
 
 ## 安装说明
 
 1. 克隆项目并安装依赖：
 ```bash
-git clone [项目地址]
+git clone https://github.com/chilohwei/ai-evaluation-workflow
 cd ai-evaluation-workflow
 pip install -r requirements.txt
 ```
